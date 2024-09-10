@@ -1,2 +1,4 @@
 url: "https://marcobon90.github.io/sitoProva/"
 baseurl: ""
+markdown: kramdown
+theme: minima
